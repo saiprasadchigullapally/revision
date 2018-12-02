@@ -1,5 +1,5 @@
 import org.testng.Assert;
-
+// To validate expected ouput is equal with actual output we go for assertion
 public class MyTest {
 
 	
